@@ -1,6 +1,6 @@
-/home/celina/Bureau/ai-evaluation/src/main/java/com/ollmark/ai/controller/AIEvaluationController.java
-/home/celina/Bureau/ai-evaluation/src/main/java/com/ollmark/ai/service/PenpotIntegrationService.java
-/home/celina/Bureau/ai-evaluation/src/main/java/com/ollmark/ai/model/PenpotModels.java
-/home/celina/Bureau/ai-evaluation/src/main/java/com/ollmark/ai/service/AIEvaluationService.java
+/home/celina/Bureau/ai-evaluation/src/main/java/com/ollmark/ai/service/PenpotAIService.java
+/home/celina/Bureau/ai-evaluation/src/main/java/com/ollmark/ai/model/OpenRouterRequest.java
+/home/celina/Bureau/ai-evaluation/src/main/java/com/ollmark/ai/controller/PenpotAIController.java
+/home/celina/Bureau/ai-evaluation/src/main/java/com/ollmark/ai/model/OpenRouterResponse.java
 /home/celina/Bureau/ai-evaluation/src/main/java/com/ollmark/ai/controller/TestController.java
 /home/celina/Bureau/ai-evaluation/src/main/java/com/ollmark/ai/Application.java
